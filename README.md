@@ -69,7 +69,7 @@ Running Balance = Previous Stock + New Input - Sales
 
 ![Sales Recording](outputs/figures/sales_recording.png)
 ![Sales Recording](outputs/figures/sales_recording_payment.png)
-![Sales Recording](outputs/figures/sales_recording_payment method).png
+![Sales Recording](outputs/figures/sales_recording_payment_method).png
 
 **What you see here:**
 - Simple sales entry form
@@ -312,13 +312,13 @@ Price: 12,000 UGX each
 ### Download Options:
 
 **1. Excel Desktop Version (Recommended)**
-- [Download: Retail_Bookkeeping_System.xlsx](link)
+- [Download: Retail_Bookkeeping_System.xlsx]([link](https://github.com/dez-data/retail-bookkeeping-system/raw/main/Retail_Bookkeeping_System.xlsx))
 - Requires: Microsoft Excel 2013 or later
 - Full functionality with all features
 - Works offline
 
 **2. Google Sheets Version (Web-Based)**
-- [Open Live Demo](google-sheets-link)
+- [Open Live Demo]([google-sheets-link](https://docs.google.com/spreadsheets/d/1NWepma4va31exp-pb2zOWLyrKK7wYag1/edit?usp=sharing&ouid=101699403049975759409&rtpof=true&sd=true))
 - Works on any device with internet
 - Make a copy to use for your business
 - Collaborate with business partners
@@ -449,7 +449,7 @@ Data Analyst | Statistics Graduate
 
 **Why I built this:**
 
-I've seen too many talented entrepreneurs fail because they didn't know their numbers. This Excel system is my way of helping—providing professional bookkeeping tools without the cost barrier.
+I've seen too many talented entrepreneurs fail because they didn't know their numbers. This Excel system is my way of helping: providing professional bookkeeping tools without the cost barrier.
 
 **Other Projects:**
  [Ghana GDP Forecasting - Time Series Analysis (R)](https://github.com/dez-data/ghana-gdp-forecasting)
@@ -489,14 +489,14 @@ I've seen too many talented entrepreneurs fail because they didn't know their nu
 
 ---
 
-## ⭐ Support This Project
+## Support This Project
 
 **If this system helps you or someone you know:**
 
-⭐ Star this repository on GitHub  
-🔗 Share it with other business owners  
-💬 Leave feedback on what worked  
-📧 Tell me your success story (seriously, I want to hear!)  
+ Star this repository on GitHub  
+ Share it with other business owners  
+ Leave feedback on what worked  
+ Tell me your success story (seriously, I want to hear!)  
 
 Every star helps more businesses discover this tool.
 
@@ -513,7 +513,7 @@ Every star helps more businesses discover this tool.
 ### Sales Recording
 ![Sales Recording](outputs/figures/sales_recording.png)
 ![Sales Recording](outputs/figures/sales_recording_payment.png)
-![Sales Recording](outputs/figures/sales_recording_payment method.png)
+![Sales Recording](outputs/figures/sales_recording_payment_method.png)
 *Simple interface for recording daily transactions*
 
 ### Profit Analysis
@@ -529,4 +529,5 @@ Every star helps more businesses discover this tool.
 **Last Updated:** January 2025  
 **Version:** 1.0  
 **Status:** Active - Feedback Welcome!  
+
 **License:** MIT (Free to use)
