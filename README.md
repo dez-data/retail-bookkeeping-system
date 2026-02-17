@@ -69,7 +69,7 @@ Running Balance = Previous Stock + New Input - Sales
 
 ![Sales Recording](outputs/figures/sales_recording.png)
 ![Sales Recording](outputs/figures/sales_recording_payment.png)
-![Sales Recording](outputs/figures/sales_recording_payment_method).png
+![Sales Recording](outputs/figures/sales_recording_payment_method.png)
 
 **What you see here:**
 - Simple sales entry form
@@ -531,4 +531,5 @@ Every star helps more businesses discover this tool.
 **Status:** Active - Feedback Welcome!  
 
 **License:** MIT (Free to use)
+
 
