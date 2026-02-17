@@ -531,3 +531,4 @@ Every star helps more businesses discover this tool.
 **Status:** Active - Feedback Welcome!  
 
 **License:** MIT (Free to use)
+
