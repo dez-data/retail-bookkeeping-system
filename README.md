@@ -3,7 +3,7 @@
 A comprehensive Excel-based stock management and profit tracking system designed for small retail businesses, market vendors, and micro-enterprises in Africa.
 
 ** [View Live Demo (Google Sheets)](https://docs.google.com/spreadsheets/d/1NWepma4va31exp-pb2zOWLyrKK7wYag1/edit?usp=sharing&ouid=101699403049975759409&rtpof=true&sd=true)**  
-** [Download Excel Template]([Download Excel Template](https://github.com/dez-data/retail-bookkeeping-system/raw/main/Retail_Bookkeeping_System.xlsx)**
+** [Download Excel Template](https://github.com/dez-data/retail-bookkeeping-system/raw/main/Retail_Bookkeeping_System.xlsx)**
 
 ---
 
@@ -531,6 +531,7 @@ Every star helps more businesses discover this tool.
 **Status:** Active - Feedback Welcome!  
 
 **License:** MIT (Free to use)
+
 
 
 
